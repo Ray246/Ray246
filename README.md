@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<br>
+
+<p align="center">
+  <img src="assets/sf-skyline-banner.png" width="100%" alt="San Francisco tech skyline footer">
+</p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=Ray246&icon=0&color=0)](https://visitcount.itsvg.in)
 
