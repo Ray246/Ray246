@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img width="2172" height="724" alt="ChatGPT Image Apr 30, 2026, 03_42_31 AM" src="https://github.com/user-attachments/assets/7bb513a5-087d-40d4-b010-2c3747f695b2" />
 
 
 
