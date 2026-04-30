@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif" width="850" alt="Animated coding banner">
-</p>
+<img width="480" height="270" alt="Miles Morales Marvel GIF by Sony Pictures Animation" src="https://github.com/user-attachments/assets/f8f32e73-3c43-4429-b634-1db6d8655a04" />
 
-<br>
-
-## Hi there 👋
 
 
 <!--
