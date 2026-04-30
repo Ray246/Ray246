@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif" width="850" alt="Animated coding banner">
+</p>
+
+<br>
 
 ## Hi there 👋
+
 
 <!--
 **Ray246/Ray246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
